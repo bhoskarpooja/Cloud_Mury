@@ -1,0 +1,30 @@
+
+
+
+
+
+#banner{
+        width:100%;
+        height: 550px;
+        padding: 0;
+        background-image: url("./img/l.gif");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        z-index: 110;
+        opacity: 95%;
+        box-shadow: #1b75cf;
+        
+
+}
+.gif{
+        width: 100%;
+        
+}
+
+
+.welcome-to-cloudmury{
+        width: 100%;
+        height: 100%;
+
+}

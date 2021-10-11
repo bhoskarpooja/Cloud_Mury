@@ -1,0 +1,34 @@
+
+
+#banner{
+        width:100%;
+        height: 550px;
+        padding: 0;
+        background-image: url("./img/Application.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        z-index: 110;
+        opacity: 95%;
+        box-shadow: #1b75cf;
+        
+
+}
+.gif{
+        width: 100%;
+        
+}
+
+
+.Application-development{
+        width: 100%;
+        height: 100%;
+
+}
+
+.App-info{
+        margin-top: 40px;
+        padding: 20px;
+        text-align: center;
+        color: #1b75cf;
+}
